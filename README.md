@@ -1,4 +1,4 @@
-# Learn Multicloud Serverless APIs using CDK Terraform
+# Learn Multicloud Serverless API Development using CDK Terraform
 
 In this learning repository we will learn to develop serverless REST and GraphQL APIs with CDK for Terraform using TypeScript. For databases we will learn to use serverless Relational, Graph, and NoSQL databases. These serverless APIs will help move the world towards the API economy.
 
